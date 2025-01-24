@@ -13,7 +13,7 @@ namespace APPProyectoMLHOMP.Models
         /// <summary>
         /// Título o nombre del apartamento
         /// </summary>
-        public string Title { get; set; } = string.Empty;
+        public string Titles { get; set; } = string.Empty;
 
         /// <summary>
         /// Descripción detallada del apartamento
